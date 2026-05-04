@@ -1,0 +1,6 @@
+Invoice ID: 101
+Laptop | Price: 50000.0 | Qty: 1 | Total: 50000.0
+Mouse | Price: 500.0 | Qty: 2 | Total: 1000.0
+Total Amount: 51000.0
+
+---------------------
